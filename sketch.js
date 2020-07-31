@@ -102,7 +102,7 @@ function draw() {
   fill("yellow");
   text("Score: " + score,windowWidth/2,35);
   textSize(27.5);
-  text("Move with arrow keys or joystick", windowWidth/2 , windowHeight - 30);
+  text("Move with arrow keys or joystick", 10 , windowHeight - 30);
 }
 
 //spawn clouds
